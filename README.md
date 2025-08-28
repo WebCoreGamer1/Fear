@@ -1,3 +1,6 @@
 <#Fear
-<Ambiente Distópico; uma sensação de opressão, medo e desespero, com cenários marcados por caos, desordem, e elementos perturbadores e irreais
+<Ambiente Distópico
+<Uma sensação de opressão - medo e desespero 
+<Com cenários marcados por caos - desordem 
+<Elementos perturbadores e irreais
 <
